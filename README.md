@@ -443,6 +443,9 @@ Average Salary by Department
 
 📊 Final Dashboard
 
+<img width="1878" height="675" alt="image" src="https://github.com/user-attachments/assets/1274ada7-d315-4ca5-9eb7-ef3ab1f7a75a" />
+
+
 The Excel dashboard will provide HR stakeholders with a single-page view of:
 
 Workforce → Attrition → Compensation → Performance → Satisfaction → Career Growth
